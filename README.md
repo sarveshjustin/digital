@@ -21,3 +21,4 @@ or(d2,c,d);
 or(d4,a,b);
 endmodule
 ```
+![image](https://github.com/sarveshjustin/digital/assets/113497481/d63faf0a-f7f4-4611-85f7-f8dff0bb7b50)
