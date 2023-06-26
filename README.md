@@ -9,7 +9,7 @@ assign d0=b0;
 not(b1bar,b1);
 not(b2bar,b2);
 not(b3bar,b3);
-and(a,b3,b2);
+and(a,b3,b2); 
 and(b,b3,b1);
 and(c,b3bar,b2);
 and(d,b2,b1);
