@@ -1,4 +1,4 @@
-# digital
+# binary to bcd
 # binary to bcd
 ```
 module pro(b0,b1,b2,b3,b1bar,b2bar,b3bar,d0,d1,d2,d3,d4);
